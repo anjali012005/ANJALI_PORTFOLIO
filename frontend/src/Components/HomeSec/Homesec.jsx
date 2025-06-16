@@ -32,7 +32,7 @@ const Home = () => {
                 <div className='div-button'>
                 <button className='button'>
                 <a 
-                    href="https://drive.google.com/file/d/1hkzWPSoayQU4xtx-BC33kcZVFm7Wn-si/view?usp=sharing" 
+                    href="https://drive.google.com/file/d/18aatwHvzk4OABttlb2vSo0L_6sR7-fIu/view?usp=sharing" 
                     style={{ textDecoration: 'none', color: 'inherit' }}
                 >
                     View Resume
