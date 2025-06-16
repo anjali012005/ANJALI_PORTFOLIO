@@ -3,6 +3,7 @@ import './Projects.css'
 import img1 from '../Assets/experince-img.jpg'
 import img2 from '../../assets/glimps1.png';
 import img3 from '../../assets/notesphere.png';
+import img4 from '../../assets/easybook.jpg';
 
 
 const Projects = () => {
@@ -41,7 +42,7 @@ const Projects = () => {
 
                 <div className='project-card'>
                     <img
-                        src={img1}
+                        src={img4}
                         alt="Static Card"
                         className="static-card-image"
                     />
